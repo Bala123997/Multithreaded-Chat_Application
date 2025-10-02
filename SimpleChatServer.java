@@ -1,5 +1,3 @@
-package com.my_test;
-
 import java.io.*;
 import java.net.*;
 import java.util.*;
@@ -64,4 +62,5 @@ class ClientHandler extends Thread {
             System.out.println(e);
         }
     }
+
 }
