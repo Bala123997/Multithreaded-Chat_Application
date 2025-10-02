@@ -41,7 +41,7 @@ It demonstrates how multiple clients can connect to a server and exchange messag
 
 <img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/5b0f6c42-9e75-4d66-baf8-742ee494664e" />
 
-■ SimpleChatClient
+■ SimpleChatClient program
 
 <img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/381fe40a-67d3-4796-88da-478c592e106b" />
 
@@ -52,6 +52,8 @@ It demonstrates how multiple clients can connect to a server and exchange messag
 How to compile & run ▶
 
 ■ SAMPLE OUTPUT - 1
+
+This is for chat messages from one client only.
 
 <img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/81110e5d-3e89-4d18-9b1d-d05b161d03f1" />
 
@@ -68,6 +70,8 @@ How to compile & run ▶
 <img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/62e02807-1e6d-48a9-8e8c-050cee226ca2" />
 
 ■ SAMPLE OUTPUT - 2
+
+This is for chat messages from multiple clients.
 
 <img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/62c9d8f1-8db3-43e1-9e9c-42ac3dbc1291" />
 
