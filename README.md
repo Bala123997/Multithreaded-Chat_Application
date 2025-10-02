@@ -35,28 +35,36 @@ It demonstrates how multiple clients can connect to a server and exchange messag
 
 📂 Project Structure
 
+■ SimpleChatServer program 
 
-<img width="1920" height="966" alt="eclipse-workspace - MultithreadedChatApplication_src_multithreadedChatApplication_SimpleChatServer java - Eclipse IDE 20-09-2025 22_04_09" src="https://github.com/user-attachments/assets/b3518c1f-2d39-451b-bb5d-0159095edbb4" />
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/ba2ca398-4a46-4a68-bc8e-aeb9a7967023" />
 
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/5b0f6c42-9e75-4d66-baf8-742ee494664e" />
 
-<img width="1920" height="966" alt="eclipse-workspace - MultithreadedChatApplication_src_multithreadedChatApplication_SimpleChatServer java - Eclipse IDE 20-09-2025 22_04_22" src="https://github.com/user-attachments/assets/101f8b45-838e-4336-849a-65e02f630f53" />
+■ SimpleChatClient
+
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/381fe40a-67d3-4796-88da-478c592e106b" />
+
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/96a923e0-f4ac-49c6-b721-a67d43fdd7ee" />
 
 
 
 How to compile & run ▶
 
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/81110e5d-3e89-4d18-9b1d-d05b161d03f1" />
 
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/529ee420-06f9-44dd-bbcb-59b682aa7940" />
 
-<img width="1920" height="966" alt="eclipse-workspace - MultithreadedChatApplication_src_multithreadedChatApplication_SimpleChatServer java - Eclipse IDE 20-09-2025 22_05_45" src="https://github.com/user-attachments/assets/3004b2c2-5247-4fdf-9889-48e7f0c860ba" />
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/f0454bb5-ddfa-4f6c-b48c-d0a6ba2b9d84" />
 
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/ad73a1b3-070b-4fa0-93d0-6c9a63cd9f54" />
 
-<img width="1920" height="966" alt="eclipse-workspace - MultithreadedChatApplication_src_multithreadedChatApplication_SimpleChatServer java - Eclipse IDE 20-09-2025 22_05_49" src="https://github.com/user-attachments/assets/425334a4-63b7-4fa9-bbf1-68fc7dd9cd45" />
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/c3e0b7cb-f7d3-436b-9817-178897664c29" />
 
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/53b3db05-3e2a-4264-a46f-ce0f7d56b8d3" />
 
-<img width="1920" height="966" alt="eclipse-workspace - MultithreadedChatApplication_src_multithreadedChatApplication_SimpleChatServer java - Eclipse IDE 20-09-2025 22_05_53" src="https://github.com/user-attachments/assets/f67a6fa7-84a4-4d8a-9ff6-f826b57c14ab" />
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/62e02807-1e6d-48a9-8e8c-050cee226ca2" />
 
-
-<img width="1920" height="966" alt="eclipse-workspace - MultithreadedChatApplication_src_multithreadedChatApplication_SimpleChatServer java - Eclipse IDE 20-09-2025 22_05_57" src="https://github.com/user-attachments/assets/8c5432b1-d543-406b-9df7-5cff479aba81" />
 
 ⚡ Notes
 
