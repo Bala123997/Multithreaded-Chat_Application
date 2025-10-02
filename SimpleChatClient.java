@@ -1,5 +1,3 @@
-package com.my_test;
-
 import java.io.*;
 import java.net.*;
 
@@ -49,4 +47,5 @@ class ReadThread extends Thread {
             System.out.println(e);
         }
     }
+
 }
